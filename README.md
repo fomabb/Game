@@ -8,13 +8,7 @@ In this game we play as a hobbit who is a master of weapons. It is necessary to 
 keys to open the locked doors. It is necessary to stock up on a sufficient number of cartridges, since weapons without 
 cartridges are destroyed, and when carrying keys, it is necessary to destroy your weapon.
 
-### Prerequisites:
 
-- Java 19
-- PostgresSQL
+## Screenshots
 
-# Data model
 
-## ER diagram for the data model
-
-![database.png](src%2Fmain%2Fresources%2Fimg%2Fdatabase.png)
