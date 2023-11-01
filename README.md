@@ -1,3 +1,7 @@
+# The Lord of Guns
+
+# Link to the game https://fomabb.itch.io/the-lord-of-guns
+
 # My Game is written using the following technologies:
 
 Construct 3
